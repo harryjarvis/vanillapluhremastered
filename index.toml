@@ -401,11 +401,6 @@ hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "0c5fb562ada595d9222e9e12879b5f3a98907c1af71e5339feb3223c7ba49a92"
-metafile = true
-
-[[files]]
 file = "mods/tempad.pw.toml"
 hash = "9e2a80744672102d9f5cde3366e6089e70f5c46309bf0533bc33cc96701c6adc"
 metafile = true
