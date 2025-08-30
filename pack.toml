@@ -1,0 +1,13 @@
+name = "Vanilla Pluh 2"
+author = "jarv"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e4fdfb3a2ef2efd12daf37fa1e2ced4545918e287c3cfb75df767c6d6886fccc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.203"
