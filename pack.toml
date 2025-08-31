@@ -1,4 +1,4 @@
-name = "Vanilla Pluh 2"
+name = "Vanilla Pluh Remastered"
 author = "jarv"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -11,4 +11,3 @@ hash = "e4fdfb3a2ef2efd12daf37fa1e2ced4545918e287c3cfb75df767c6d6886fccc"
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.203"
-hash = "2ed416f9df87afb707c1c90a1d57eaca4e6b3706f777db997bc31f05c5e84a46"
