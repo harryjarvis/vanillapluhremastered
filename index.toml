@@ -261,6 +261,14 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "mods/lithostitched.pw.toml"
+hash = "3bece4fb14b2cbbddcaa43a05aa48bd08f14e7bd4a403f22e75a038835bc0128"
+metafile = true
+
+[[files]]
+>>>>>>> cd3e184 (lithostitched fixed using ')
 file = "mods/macaws-bridges.pw.toml"
 hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
 metafile = true
@@ -401,6 +409,14 @@ hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
+=======
+file = "mods/tectonic.pw.toml"
+hash = "0c5fb562ada595d9222e9e12879b5f3a98907c1af71e5339feb3223c7ba49a92"
+metafile = true
+
+[[files]]
+>>>>>>> cd3e184 (lithostitched fixed using ')
 file = "mods/tempad.pw.toml"
 hash = "9e2a80744672102d9f5cde3366e6089e70f5c46309bf0533bc33cc96701c6adc"
 metafile = true
